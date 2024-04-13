@@ -1,0 +1,26 @@
+What distinguishes normal HTML elements from semantic HTML elements?
+
+Normal HTML Elements:
+
+Purpose: Normal HTML elements are generic and used primarily for layout and presentation purposes.
+Meaning: They do not convey specific meaning about the content they encapsulate.
+Examples: <div>, <span>, <p>, <b>, <i>, <table>, <img>, <a>, etc.
+Usage: Normal HTML elements are versatile and can be styled using CSS to achieve desired visual effects.
+Accessibility: They may not provide meaningful information to assistive technologies (e.g., screen readers) about the role or purpose of the content.
+Semantic HTML Elements:
+
+Semantic HTML elements:
+Purpose: Semantic HTML elements have specific meanings that convey the purpose and structure of the content they wrap.
+Meaning: They provide context and clarity to both developers and web browsers about the content they contain.
+Examples: <header>, <nav>, <article>, <section>, <aside>, <footer>, <main>, <figure>, <figcaption>, <time>, etc.
+Usage: Semantic HTML elements are designed to represent different sections and components of a web page based on their semantic meaning.
+Accessibility: Semantic HTML elements improve accessibility by conveying important information to assistive technologies, making web content more usable for people with disabilities.
+
+Key Differences:
+Purpose: Normal HTML elements are primarily used for layout and styling, while semantic HTML elements define the structure and meaning of the content.
+Meaning: Semantic HTML elements have specific semantic meaning, conveying the role and purpose of the content for better understanding.
+Clarity and Maintainability: Semantic HTML promotes cleaner, more readable code by providing meaningful labels for different sections of a web page.
+Accessibility: Semantic HTML enhances accessibility by helping assistive technologies interpret content accurately, improving usability for all users.
+
+In summary, semantic HTML elements play a crucial role in defining the structure, meaning, and accessibility of web content. 
+By using semantic elements appropriately, web developers can create more meaningful, usable, and maintainable websites that benefit both users and search engines.
